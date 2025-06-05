@@ -1,6 +1,6 @@
-# <h1 aling = "center">⚖️ Calculadora de IMC</h1>
+<h1 align="center">⚖️ Calculadora de IMC</h1>
 
-Este projeto é uma aplicação web simples que calcula o **IMC (Índice de Massa Corporal)** de uma pessoa com base no peso e altura informados. A proposta é entregar uma ferramenta de uso real com foco em lógica de programação, boas práticas e experiência do usuário.
+<p <h1 align="center">Este projeto é uma aplicação web simples que calcula o **IMC (Índice de Massa Corporal)** de uma pessoa com base no peso e altura informados. A proposta é entregar uma ferramenta de uso real com foco em lógica de programação, boas práticas e experiência do usuário.</p>
 
 ---
 
@@ -26,8 +26,7 @@ Este projeto é uma aplicação web simples que calcula o **IMC (Índice de Mass
 ✅ Permite ao usuário inserir peso (kg) e altura (m)  
 ✅ Calcula o IMC com base na fórmula oficial  
 ✅ Informa a classificação do resultado (Abaixo do peso, Normal, Sobrepeso, etc.)  
-✅ Mostra alertas personalizados caso os campos estejam vazios  
-✅ Botão de **recalcular** para facilitar novo uso  
+✅ Mostra alertas personalizados caso os campos estejam vazios   
 ✅ Lógica comentada para facilitar o entendimento do código
 
 ---
