@@ -29,6 +29,12 @@
 ✅ Mostra alertas personalizados caso os campos estejam vazios   
 ✅ Lógica comentada para facilitar o entendimento do código
 
+| Linguagem    | Porcentagem estimada |
+| ------------ | -------------------- |
+| 📄 HTML      | 30%                  |
+| 🎨 CSS       | 50%                  |
+| ✨ JavaScript | 20%                  |
+
 ---
 
 ## 💡 Como usar
