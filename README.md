@@ -19,6 +19,12 @@
 - **CSS3 com estilização personalizada**
 - **JavaScript Vanilla (puro)**
 
+| Linguagem    | Porcentagem estimada |
+| ------------ | -------------------- |
+| 📄 HTML      | 30%                  |
+| 🎨 CSS       | 50%                  |
+| ✨ JavaScript | 20%                  |
+
 ---
 
 ## 📦 Funcionalidades
@@ -28,12 +34,6 @@
 ✅ Informa a classificação do resultado (Abaixo do peso, Normal, Sobrepeso, etc.)  
 ✅ Mostra alertas personalizados caso os campos estejam vazios   
 ✅ Lógica comentada para facilitar o entendimento do código
-
-| Linguagem    | Porcentagem estimada |
-| ------------ | -------------------- |
-| 📄 HTML      | 30%                  |
-| 🎨 CSS       | 50%                  |
-| ✨ JavaScript | 20%                  |
 
 ---
 
