@@ -21,9 +21,9 @@
 
 | Linguagem    | Porcentagem estimada |
 | ------------ | -------------------- |
-| 📄 HTML      | 30%                  |
-| 🎨 CSS       | 50%                  |
-| ✨ JavaScript | 20%                  |
+| 📄 HTML      | 14%                  |
+| 🎨 CSS       | 22%                  |
+| ✨ JavaScript | 64%                  |
 
 ---
 
